@@ -7,10 +7,6 @@ This project delivers a full-stack analytics workflow designed to generate actio
 ---
 
 ## **Dataset**
-
-**Total Records:** 3,900
-**Attributes:** 18 columns
-
 **Key Data Features**
 
 * Customer demographics (age, gender, location, subscription status)
@@ -122,9 +118,3 @@ Key business outcomes surfaced from the analysis:
 * Loyal customers represent the highest lifetime value; targeted onboarding drives Returning → Loyal migration.
 * Certain product categories have consistent top performers, ideal for targeted promotions and inventory planning.
 
-
-* **PPT:** Executive-level presentation
-
----
-
-If you want, I can also generate a **perfectly formatted GitHub-ready Markdown version**, a **requirements.txt**, or a **project folder structure** optimized for portfolio use.
