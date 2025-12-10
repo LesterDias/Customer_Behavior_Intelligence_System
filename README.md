@@ -96,6 +96,8 @@ Delivered an interactive dashboard highlighting:
 
 Dashboard file:
 `customer_behavior.pbix`
+<img width="1185" height="645" alt="image" src="https://github.com/user-attachments/assets/49501102-d5d3-4e69-9758-a1d3faf22a21" />
+
 
 ### **7. Reporting & Presentation**
 
