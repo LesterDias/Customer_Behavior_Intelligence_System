@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis
+# Customer_Behavior_Intelligence_System
 
 This project delivers a full-stack analytics workflow designed to generate actionable insights from customer shopping behavior. The initiative operationalizes an end-to-end data pipeline—from raw data ingestion to statistical analysis, SQL-driven business queries, and executive-ready dashboards. The goal is to translate behavioral patterns into decision-ready intelligence that informs product strategy, marketing allocation, and customer retention plays.
 
